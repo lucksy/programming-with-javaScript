@@ -1,1 +1,1 @@
-# programming-with-javaScript
+# programming-with-javascript
